@@ -1,0 +1,4 @@
+enchufe;id001;Enchufe sala;1200W;ON;08:00-18:00
+bombillo;id002;Bombillo cocina;15W;OFF;--
+termostato;id003;Termostato principal;1500W;22°C;programado
+panel_solar;id004;Panel techo;3000W;generando;--
